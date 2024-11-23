@@ -1,1 +1,1 @@
-# -Digital-Earth-Satellite-Visualization-Platform
+# DigitalEarth
